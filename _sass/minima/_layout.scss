@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  background-color: #548DD4
+  background-color: #548DD4;
   //border-top: 5px solid $brand-color-dark;
   //border-bottom: 1px solid $brand-color-light;
   min-height: $spacing-unit * 1.865;
@@ -18,7 +18,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: center;
-  color: #ffffff
+  color: #ffffff;
 
   @include media-query($on-palm) {
     padding-right: 45px;
