@@ -14,7 +14,8 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  //font-weight: 300;
+  font-weight: bold;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: center;
@@ -26,7 +27,8 @@
 
   &,
   &:visited {
-    color: $brand-color-dark;
+    //color: $brand-color-dark;
+    color: #ffffff;
   }
 }
 
