@@ -1,5 +1,5 @@
 title: Craig Lordan
-author: Craig Lordan
+# author: Craig Lordan
 email: craig.lordan@yahoo.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Portfolio providing samples of writing, content design, and other projects
@@ -20,7 +20,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram:
-    linkedin: https://www.linkedin.com/in/craiglordan/
+    linkedin: craiglordan
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
