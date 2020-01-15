@@ -8,7 +8,7 @@ layout: default
     <p class="post-meta">
       {% if page.categories %}
       {% for category in page.categories %}
-      {{ category | capitalize }}
+      {{ category | capitalize | join: ' | '}}
       {% endfor %}
       {% endif %}</p>
 
