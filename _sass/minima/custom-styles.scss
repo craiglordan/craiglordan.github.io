@@ -2,6 +2,14 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
+html {
+  background: url(assets/images/portcanaveral-crop.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .home {
   background-color: #ffffff;
   padding-top: 30px;
