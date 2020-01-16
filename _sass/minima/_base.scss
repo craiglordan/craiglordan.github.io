@@ -114,9 +114,9 @@ a {
   }
 
   &:hover {
-    //color: $text-color;
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
+    color: $link-hover-color;
+    //text-decoration-line: underline;
+    //text-decoration-style: dotted;
   }
 
   .social-media-list &:hover {
