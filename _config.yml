@@ -1,6 +1,6 @@
 title: Craig Lordan
 # author: Craig Lordan
-email: craig.lordan@yahoo.com
+# email: email@example.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Samples of writing, content design, and other projects
 
@@ -40,7 +40,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- 
+-
 
 # Build settings
 theme: minima
