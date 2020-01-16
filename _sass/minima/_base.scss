@@ -190,7 +190,6 @@ pre {
   max-width:         calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
-  background-image: url(//s3.amazonaws.com/elasticbeanstalk-us-east-1-200981706290/wubiu/57485bf6c926f.jpg);
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
   @extend %clearfix;
