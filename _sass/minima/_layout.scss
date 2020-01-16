@@ -24,7 +24,7 @@
   //letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: #181818;
+  color: #333333;
 
 
   @include media-query($on-palm) {
@@ -34,7 +34,12 @@
   &,
   &:visited {
     //color: $brand-color-dark;
+    color: #333333;
+  }
+  &:hover {
+    //color: $brand-color-dark;
     color: #000000;
+    text-decoration: none;
   }
 }
 
