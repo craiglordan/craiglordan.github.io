@@ -8,4 +8,5 @@ Shows a guided walkthrough for Visual Builder, which is the development environm
 I used [Pendo](https://pendo.io){:target="blank"} to implement all the elements of the guides.
 
 [Video here](/assets/videos/visual-builder-tour-startfromscratch.mp4)
+
 [PDF here](/assets/pdf/visual-builder-tour-startfromscratch.pdf)
