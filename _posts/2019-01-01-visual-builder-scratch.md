@@ -3,10 +3,11 @@ title: "Quick Base Visual Builder: Build from scratch guided walkthrough"
 layout: post
 permalink: /vb-from-scratch/
 ---
-Shows a guided walkthrough for Visual Builder, which is the development environment for [Quick Base](https://www.quickbase.com){:target="blank"}.
+Shows a stepped, guided walkthrough for Visual Builder, which is the development environment for [Quick Base](https://www.quickbase.com){:target="blank"}.
 
 I used [Pendo](https://pendo.io){:target="blank"} to implement all the elements of the guides.
 
-[Video here](/assets/videos/visual-builder-tour-startfromscratch.mp4)
+![](/assets/images/2020/01/vb-scratch.png)
 
-[PDF here](/assets/pdf/visual-builder-tour-startfromscratch.pdf)
+- [Video recording of the walkthrough](/assets/videos/visual-builder-tour-startfromscratch.mp4){:target="blank"}
+- [PDF with screens from the walkthrough](/assets/pdf/visual-builder-tour-startfromscratch.pdf){:target="blank"}
