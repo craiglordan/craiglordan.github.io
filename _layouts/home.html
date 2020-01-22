@@ -31,7 +31,7 @@ layout: default
     </ul>-->
 
 {% for category in site.categories %}
-  <h4>{{ category[0] }}</h4>
+  <h2>{{ category[0] }}</h2>
   <ul>
     {% for post in category[1] %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -39,6 +39,7 @@ layout: default
         {{ post.excerpt }}
       {%- endif -%}
       <p><img src="{{ post.thumbnail }}" width="200px"/></p>
+      <br>
     {% endfor %}
   </ul>
 {% endfor %}
