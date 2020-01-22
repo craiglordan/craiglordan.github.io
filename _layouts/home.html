@@ -21,10 +21,11 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        <p><img src="{{ post.thumbnail }}" width="150px"/>
+        <p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}</p>
+        {%- endif -%}
+      <img src="{{ post.thumbnail }}" width="200px"/></p>
       </li>
       {%- endfor -%}
     </ul>
