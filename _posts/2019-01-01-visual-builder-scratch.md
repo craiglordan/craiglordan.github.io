@@ -1,9 +1,11 @@
 ---
-title: "Quick Base Visual Builder: Build from scratch guided walkthrough"
+title: "Guided walkthrough example 1"
 layout: post
 permalink: /vb-from-scratch/
 ---
 Shows a stepped, guided walkthrough for Visual Builder, which is the development environment for [Quick Base](https://www.quickbase.com){:target="blank"}.
+
+This example shows guidance for when the developer is starting a new application from scratch.
 
 I used [Pendo](https://pendo.io){:target="blank"} to implement all the elements of the guides.
 
