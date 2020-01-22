@@ -7,7 +7,7 @@ Shows a stepped, guided walkthrough for Visual Builder, which is the development
 
 I used [Pendo](https://pendo.io){:target="blank"} to implement all the elements of the guides.
 
-![](/assets/images/2020/01/vb-scratch.png)
+![](/assets/images/vb-scratch.png)
 
 - [Video recording of the walkthrough](/assets/videos/visual-builder-tour-startfromscratch.mp4){:target="blank"}
 - [PDF with screens from the walkthrough](/assets/pdf/visual-builder-tour-startfromscratch.pdf){:target="blank"}
