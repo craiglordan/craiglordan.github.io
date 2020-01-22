@@ -2,7 +2,7 @@
 title: "Guided walkthrough example 1"
 layout: post
 permalink: /vb-from-scratch/
-thumbnail: (/assets/images/vb-scratch.png)
+thumbnail: "/assets/images/vb-scratch.png"
 ---
 Shows a stepped, guided walkthrough for Visual Builder, which is the development environment for [Quick Base](https://www.quickbase.com){:target="blank"}.
 
