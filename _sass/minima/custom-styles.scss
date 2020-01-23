@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 html {
-  background: url(/assets/images/portcanaveral-crop.jpg) no-repeat center center fixed; 
+  background: url(/assets/images/portcanaveral-crop.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,4 +24,24 @@ html {
   padding-bottom: 30px;
   padding-left: 30px;
   padding-right: 30px;
+}
+
+.homecolumn {
+  float: left;
+  padding: 10px;
+}
+
+.homeleft {
+  width: 25%;
+}
+
+.homeright {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.homerow:after {
+  content: "";
+  display: table;
+  clear: both;
 }
