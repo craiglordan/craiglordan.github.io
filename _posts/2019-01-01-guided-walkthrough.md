@@ -1,7 +1,7 @@
 ---
 title: "Guided walkthrough example 1"
 layout: post
-permalink: /vb-from-scratch/
+permalink: /guided-walkthrough/
 thumbnail: "/assets/images/vb-scratch.png"
 categories: [UX content design]
 ---
