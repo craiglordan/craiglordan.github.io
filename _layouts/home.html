@@ -44,7 +44,7 @@ layout: default
   </ul>
 {% endfor %}
 
-{% assign sorted_cats = site.categories | sort %}
+{% assign sorted_cats = site.categories | sort sort: 'title' %}
 {% for category in sorted_cats %}
 {% assign sorted_posts = category[1] | reversed %}
 <h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
