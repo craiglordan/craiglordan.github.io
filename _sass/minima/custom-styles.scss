@@ -44,3 +44,13 @@ html {
   display: table;
   clear: both;
 }
+
+@media screen and (max-width: 600px) {
+  .homeleft {
+    width: 100%;
+  }
+
+  .homeright {
+    width: 100%;
+  }
+}
