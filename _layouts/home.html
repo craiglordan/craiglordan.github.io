@@ -39,12 +39,12 @@ layout: default
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="homerow">
 
-      <div class="homecolumn homeright">
+      <div class="homecolumn homeleft">
       {%- if site.show_excerpts -%}
         {{ post.excerpt }}
       {%- endif -%}
 
-      <div class="homecolumn homeleft">
+      <div class="homecolumn homeright">
       <p><img src="{{ post.thumbnail }}" width="200px"/></p>
       </div>
 
