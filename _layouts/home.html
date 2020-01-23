@@ -39,16 +39,17 @@ layout: default
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="homerow">
 
-      <div class="homecolumn homeleft">
-      <p><img src="{{ post.thumbnail }}" width="200px"/></p>
-      </div>
-
       <div class="homecolumn homeright">
       {%- if site.show_excerpts -%}
         {{ post.excerpt }}
       {%- endif -%}
+
+      <div class="homecolumn homeleft">
+      <p><img src="{{ post.thumbnail }}" width="200px"/></p>
       </div>
-      
+
+      </div>
+
       </div>
     {% endfor %}
   <!--</ul>-->
