@@ -39,6 +39,12 @@ html {
   width: 25%;
 }
 
+.homerow {
+  border-bottom-style: solid;
+  border-bottom-color: #548DD4;
+  border-bottom-width: 1px;
+}
+
 /* Clear floats after the columns */
 .homerow:after {
   content: "";
