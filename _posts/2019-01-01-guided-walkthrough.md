@@ -3,7 +3,7 @@ title: "Guided walkthrough examples"
 layout: post
 permalink: /guided-walkthrough/
 thumbnail: "/assets/images/vb-scratch.png"
-categories: [UX content design]
+categories: [Content design/UX writing]
 ---
 Shows a stepped, guided walkthrough for Visual Builder, which is the development environment for [Quick Base](https://www.quickbase.com){:target="blank"}.
 
