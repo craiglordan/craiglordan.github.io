@@ -45,5 +45,5 @@ At Cadence, I worked on both customer-facing and internal documentation:
 ---
 
 ### Lotus Domino transaction logging
-I worked with the database architect to create this documentation for Lotus Domino. It explains transaction logging, which is a common reliability feature for database products. It allowed Domino to recover from faults more quickly and with less data loss. The documentation was written for release 5.0 of Lotus Domino (1999), yet remains basically untouched with release 10 (2019).
+I worked with the database architect to create this administration documentation for Lotus Domino. It explains transaction logging, which is a common reliability feature for database products. It allowed Domino to recover from faults more quickly and with less data loss. The documentation was written for release 5.0 of Lotus Domino (1999), yet remains basically untouched with release 10 (2019).
 - [Lotus Domino transaction logging](/assets/pdf/domino-transaction-logging.pdf){:target="blank"}
