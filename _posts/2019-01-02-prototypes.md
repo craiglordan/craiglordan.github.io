@@ -2,7 +2,7 @@
 title: "Prototypes for user testing"
 layout: post
 permalink: /prototypes/
-thumbnail: "/assets/images/vb-help-menu-sample.png"
+thumbnail: "/assets/images/thumbnails/guided.png"
 categories: [Content design/UX writing]
 ---
 Here are a set of prototypes I worked on for user tests. These were all built with [Axure RP](https://www.axure.com/){:target="blank"}.
@@ -34,3 +34,10 @@ In the prototype, click **Show tips** to see each field type definition.
 ![](/assets/images/show-tips.png)
 
 Visit the prototype here: [https://q5vnrx.axshare.com/visual_builder.html](https://q5vnrx.axshare.com/visual_builder.html){:target="blank"}
+
+### Contextual help menu
+For usability testing, this prototype showed proposed changes to the Quick Base help menu. Previously, the help menu only included a search box. The new design showed assistance matching the page or task.
+
+You can follow along the prototype using the task list I used during the user tests.
+- Task list: [context-help-tasks.pdf](/assets/pdf/context-help-tasks.pdf){:target="blank"}
+- Visit the prototype here: [https://cy70m7.axshare.com/app_home.html](https://cy70m7.axshare.com/app_home.html){:target="blank"}
