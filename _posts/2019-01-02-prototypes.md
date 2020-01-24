@@ -2,7 +2,7 @@
 title: "Prototypes for user testing"
 layout: post
 permalink: /prototypes/
-thumbnail: "/assets/images/thumbnails/guided.png"
+thumbnail: "/assets/images/thumbnails/3-step.png"
 categories: [Content design/UX writing]
 ---
 Here are a set of prototypes I worked on for user tests. These were all built with [Axure RP](https://www.axure.com/){:target="blank"}.
