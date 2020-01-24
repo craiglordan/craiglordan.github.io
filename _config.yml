@@ -2,7 +2,7 @@ title: Craig Lordan
 # author: Craig Lordan
 # email: email@example.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Samples of writing, content design, and other projects
+  Samples of content design, UX writing, documentation, and other projects
 
 show_excerpts: true # set to true to show excerpts on the homepage
 permalink: /:categories/:year/:month/:day/:title:output_ext
