@@ -2,7 +2,7 @@
 title: "User guide and API guide content"
 layout: post
 permalink: /user-guides/
-thumbnail: "/assets/images/qb-help.png"
+thumbnail: "/assets/images/thumbnails/qb-help.png"
 categories: [Documentation]
 ---
 These are all examples and writing samples from user guides and API guides for products.
@@ -12,7 +12,9 @@ At [Quick Base](https://www.quickbase.com){:target="blank"}, I worked on writing
 
 Customers could access these guides externally from the product, plus some of the user guide topics were consumed by an in-product help menu.
 
-These guides were written and produced using [Madcap Flare](https://www.madcapsoftware.com/products/flare/){target="blank"}.
+These guides were written and produced using [Madcap Flare](https://www.madcapsoftware.com/products/flare/){:target="blank"}.
+
+---
 
 #### Links to the guides
 Visit the two guides here:
@@ -20,6 +22,8 @@ Visit the two guides here:
 - [Quick Base API Guide](https://help.quickbase.com/api-guide/){:target="blank"}
 
 ![](/assets/images/qb-help.png){: width="300"}
+
+---
 
 #### Writing samples
 Here are specific writing samples of mine from the user guide.

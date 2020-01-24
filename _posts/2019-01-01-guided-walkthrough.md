@@ -19,7 +19,7 @@ This example shows guidance for when the developer is starting a new application
 
 ![](/assets/images/vb-scratch.png){: width="600"}
 
-
+---
 
 ### Example 2: Build from a template
 This example is similar to the above, but contains different content because the developer is starting with a use case template with the basic application elements already in place.

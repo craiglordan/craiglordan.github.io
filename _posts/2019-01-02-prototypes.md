@@ -22,6 +22,8 @@ In the prototype, click the **? question mark icon** to see the help menu.
 
 Visit the prototype here: [https://of8mbv.axshare.com/home.html](https://of8mbv.axshare.com/home.html){:target="blank"}
 
+---
+
 ### Show tips
 This prototype shows a design for toggling in-context instructional text inside the [Quick Base](https://www.quickbase.com){:target="blank"} Visual Builder.
 
@@ -34,6 +36,8 @@ In the prototype, click **Show tips** to see each field type definition.
 ![](/assets/images/show-tips.png)
 
 Visit the prototype here: [https://q5vnrx.axshare.com/visual_builder.html](https://q5vnrx.axshare.com/visual_builder.html){:target="blank"}
+
+---
 
 ### Contextual help menu
 For usability testing, this prototype showed proposed changes to the Quick Base help menu. Previously, the help menu only included a search box. The new design showed assistance matching the page or task.
