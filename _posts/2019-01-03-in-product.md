@@ -7,6 +7,8 @@ categories: [Content design/UX writing]
 ---
 Here are samples of specs for in-product content. These were all final specs that were the basis for development.
 
+---
+
 ### "Build together" app creation copy
 My spec for final content for an app creation modal for [Quick Base](https://www.quickbase.com){:target="blank"}. Developers could use this series of dialogs (called **Build Together**) to choose a use case as the starting point for a new database application.
 

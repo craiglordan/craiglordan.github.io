@@ -11,6 +11,8 @@ The product shown in these examples is [Quick Base](https://www.quickbase.com){:
 
 I used [Pendo](https://pendo.io){:target="blank"} to implement all the elements (content, visuals, and flow). These walkthroughs were deployed for customer use.
 
+---
+
 ### Example 1: Start from scratch
 This example shows guidance for when the developer is starting a new application from scratch.
 
