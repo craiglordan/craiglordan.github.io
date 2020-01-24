@@ -41,3 +41,9 @@ At Cadence, I worked on both customer-facing and internal documentation:
 - [Xcelium Save/Restart guide](/assets/pdf/saverestart.pdf){:target="blank"}. Documents a feature that allowed developers designing semiconductor simulation tests to easily save and restart the process, which saved time and provided flexibility.
 - [Installing, Running, and Adding Tarkits to Cadence Help](/assets/pdf/adding-tarkits-help.pdf){:target="blank"}. Internal documentation that explained how to install a help application, then load the latest documentation files.
 - [Known Problems and Solutions Process](/assets/pdf/known-problems-solutions-process.pdf){:target="blank"}. Internal documentation for writers on how to produce "known problems and solutions," which were documents that showed open issues, any available solutions, and the planned release where the issue was to be fixed.
+
+---
+
+### Lotus Domino transaction logging
+I worked with the database architect to create this documentation for Lotus Domino. It explains transaction logging, which is a common reliability feature for database products. It allowed Domino to recover from faults more quickly and with less data loss. The documentation was written for release 5.0 of Lotus Domino (1999), yet remains basically untouched with release 10 (2019).
+- [Lotus Domino transaction logging](/assets/pdf/domino-transaction-logging.pdf){:target="blank"}
