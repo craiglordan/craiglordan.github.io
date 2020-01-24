@@ -2,7 +2,7 @@
 title: "Guided walkthrough examples"
 layout: post
 permalink: /guided-walkthrough/
-thumbnail: "/assets/images/thumbnails/guided.png"
+thumbnail: "/assets/images/thumbnails/3-step.png"
 categories: [Content design/UX writing]
 ---
 Shows examples of guided walkthroughs, giving users a tour of features in a development environment.
