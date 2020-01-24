@@ -29,6 +29,8 @@ Here are links to specific writing samples from the user guide:
 - [Quick Base sandbox](/assets/pdf/sandbox.pdf){:target="blank"}. This is a collection of four topics covering a feature where application changes can be developed and tested without affecting the operations of the live app itself.
 - [Visual Builder](/assets/pdf/visual-builder.pdf){:target="blank"}. An overview topic for Visual Builder, the data-diagramming development environment for Quick Base.
 
+---
+
 ### Beta program guides
 These are samples from end-user and developer guides for Mercury, which was a planned new product for the Quick Base portfolio. I wrote these guides to support the beta program. The layout, style, and tone of the guides was intended to match the new branding for this proposed offering.
 - [Mercury builder](/assets/pdf/mercury-builder.pdf). Application developer guide for Mercury, explaining major app-dev tasks.
