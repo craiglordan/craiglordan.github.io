@@ -33,7 +33,7 @@ Here is my final spec, along with screens of the final live UI, for contextual, 
 
 I listened to several customer interviews, led by a user researcher, where we learned that administrators working on policy definitions sometimes needed clarity on the choices. The in-product content design catered to providing definitions and tips, which was just enough information for this technical audience, and prevented them from calling support for help.
 
-- [Full specs for policies helps and in-product tips](/assets/pdf/policies-help.pdf){:target="blank"}
+- [Full content specs](/assets/pdf/policies-help.pdf){:target="blank"}
 - [Examples of show/hide tips in final UI](/assets/pdf/show-hide-tips-final.pdf){:target="blank"}
 
 ![](/assets/images/2-tips-on.png){: width="500"}
