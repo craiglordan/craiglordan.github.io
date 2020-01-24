@@ -9,7 +9,6 @@ Here are a set of prototypes I worked on for user tests. These were all built wi
 
 Each of these prototypes includes ideas for in-product content that provides information for users within the context of the task.
 
----
 
 ### Flexible help menu
 This [prototype](https://of8mbv.axshare.com/home.html){:target="blank"} shows a design for new help menu inside the [Quick Base](https://www.quickbase.com){:target="blank"} Visual Builder, which is the development environment for the product.
