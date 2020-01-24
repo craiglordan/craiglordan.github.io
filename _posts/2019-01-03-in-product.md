@@ -1,5 +1,5 @@
 ---
-title: "Content patterns/process"
+title: "In-product content specs"
 layout: post
 permalink: /in-product/
 thumbnail: "/assets/images/thumbnails/in-product.png"
