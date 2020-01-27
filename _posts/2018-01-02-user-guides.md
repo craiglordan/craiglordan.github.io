@@ -26,7 +26,7 @@ Visit the two guides here:
 Here are links to specific writing samples from the user guide:
 - [Creating a relationship in Quick Base](/assets/pdf/creating-relationship.pdf){:target="blank"}. A rewrite of several existing help topics into a single entry, in order to streamline language, match brand voice and tone, and conform to a new context-sensitive help interaction.
 - [Field types](/assets/pdf/field-types.pdf). A rewrite of all the field type definitions for Quick Base databases.
-- [Quick Base sandbox](/assets/pdf/sandbox.pdf){:target="blank"}. This is a collection of four topics covering a feature where application changes can be developed and tested without affecting the operations of the live app itself.
+- [Quick Base sandbox](/assets/pdf/qb-sandbox.pdf){:target="blank"}. This is a collection of topics covering a feature where application changes can be developed and tested without affecting the operations of the live app itself.
 - [Visual Builder](/assets/pdf/visual-builder.pdf){:target="blank"}. An overview topic for Visual Builder, the data-diagramming development environment for Quick Base.
 
 ---
