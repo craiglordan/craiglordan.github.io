@@ -41,7 +41,7 @@ Visit the prototype here: [https://q5vnrx.axshare.com/visual_builder.html](https
 ---
 
 ### Contextual help menu
-For usability testing, this prototype showed proposed changes to the Quick Base help menu. Previously, the help menu only included a search box. The new design showed assistance matching the page or task.
+For usability testing, this prototype showed proposed changes to the Quick Base](https://www.quickbase.com){:target="blank"} help menu. Previously, the help menu only included a search box. The new design showed assistance matching the page or task.
 
 <img src="/assets/images/context-help-animation.gif" style="width: 500px; border-style: solid; border-width: 1px">
 
