@@ -75,6 +75,8 @@ hr {
   margin-bottom: 10px;
 }
 
+
+
 @media screen and (max-width: 600px) {
   .homeleft {
     width: 100%;
@@ -83,4 +85,12 @@ hr {
   .homeright {
     width: 100%;
   }
+}
+
+.postcolumn {
+  flex: 100%;
+}
+
+.description {
+  line-height: 0px;
 }
