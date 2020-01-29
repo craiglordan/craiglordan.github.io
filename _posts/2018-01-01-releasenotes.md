@@ -17,7 +17,7 @@ I was the writer, editor, and project manager for this release notes documentati
 ### Quick Base Release Notes
 Here are examples of monthly release notes for Quick Base. I tracked all the enhancements and fixes and wrote all the entries. The voice and tone for these release notes are a blend of technical marketing and user guide material.
 
-These samples were assembled in Wordpress and published as part of the company blog:
+These samples from 2017 were assembled in Wordpress and published as part of the company blog:
 <div class="postrow">
   <div class="postcolumn">
   <p><b>August 2017</b></p>
@@ -33,7 +33,8 @@ These samples were assembled in Wordpress and published as part of the company b
   </div>
 </div>
 
-These samples were assembled in [Madcap Flare](https://www.madcapsoftware.com/products/flare/){:target="blank"} and published as part of the help documentation:
+<br>
+These samples from 2019 were assembled in [Madcap Flare](https://www.madcapsoftware.com/products/flare/){:target="blank"} and published as part of the help documentation:
 
 <div class="postrow">
   <div class="postcolumn">
