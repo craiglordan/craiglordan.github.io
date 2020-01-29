@@ -10,7 +10,7 @@ Examples of release notes projects I worked on at [Quick Base](https://www.quick
 ### Lotus Notes, Domino, and Domino Designer Release Notes
 I was the writer, editor, and project manager for this release notes documentation for the IBM Lotus Notes suite of products. This document is the compilation of all the individual release notes entries. Each release note was written in a separate document in a content database application, which facilitated workflow and allowed for micro-consumption of the content as individual pieces, or the assembly of all the content into a complete document.
 
-[![](/assets/images/R5-release-notes.png){: width="300"}](/assets/pdf/R5-release-notes.pdf){:target="blank"}
+[![](/assets/images/R5-release-notes.png){: width="200"}](/assets/pdf/R5-release-notes.pdf){:target="blank"}
 
 ---
 
