@@ -21,80 +21,31 @@ These samples were assembled in Wordpress and published as part of the company b
 <div class="postrow">
   <div class="postcolumn">
   <p><b>August 2017</b></p>
-  <a href="/assets/pdf/Quick-Base-August-2017-Release-Notes.pdf" target="blank"><img src="/assets/images/aug-17-rn.jpg.png"></a>
+  <a href="/assets/pdf/Quick-Base-August-2017-Release-Notes.pdf" target="blank"><img src="/assets/images/aug-17-rn.jpg"></a>
   </div>
   <div class="postcolumn">
-  <p><b>Feedback form</b></p>
-  <a href="/assets/images/feedbackform.png" target="blank"><img src="/assets/images/feedbackform.png"></a>
+  <p><b>November 2017</b></p>
+  <a href="/assets/pdf/Quick-Base-November-2017-Release-Notes.pdf" target="blank"><img src="/assets/images/nov-17-rn.png"></a>
+  </div>
+  <div class="postcolumn">
+  <p><b>August 2017</b></p>
+  <a href="/assets/pdf/Quick-Base-December-2017-Release-Notes.pdf" target="blank"><img src="/assets/images/dec-17-rn.png"></a>
   </div>
 </div>
-
 
 These samples were assembled in [Madcap Flare](https://www.madcapsoftware.com/products/flare/){:target="blank"} and published as part of the help documentation:
 
-
-
-
-The documentation team was notified about every submission so we could take action. I also would email customers,if they provided contact information, to ask further questions or to tell them we used their suggestions.
-
-A set of feedback emojis appeared at the bottom of each user guide or API guide topic. Choosing an emoji opened a feedback form in a separate browser tab, so that users could provide more information.
-
 <div class="postrow">
   <div class="postcolumn">
-  <p><b>Emojis</b></p>
-  <a href="/assets/images/feedbacklinks.png" target="blank"><img src="/assets/images/feedbacklinks.png"></a>
+  <p><b>August 2019</b></p>
+  <a href="/assets/pdf/Quick-Base-August-2019-Release-Notes.pdf" target="blank"><img src="/assets/images/aug-19-rn.png"></a>
   </div>
   <div class="postcolumn">
-  <p><b>Feedback form</b></p>
-  <a href="/assets/images/feedbackform.png" target="blank"><img src="/assets/images/feedbackform.png"></a>
+  <p><b>September 2019</b></p>
+  <a href="/assets/pdf/Quick-Base-September-2019-Release-Notes.pdf" target="blank"><img src="/assets/images/sep-19-rn.png"></a>
+  </div>
+  <div class="postcolumn">
+  <p><b>October 2019</b></p>
+  <a href="/assets/pdf/Quick-Base-October-2019-Release-Notes.pdf" target="blank"><img src="/assets/images/oct-19-rn.png"></a>
   </div>
 </div>
-
-The code to display the feedback emojis was some simple JavaScript that:
-- Displayed the emoji images
-- Included links to the feedback form in a Quick Base application
-- Captured the page information for inclusion in the feedback document
-
-Sample code:
-```html
-<p><b>Did this help you? Give us a rating:</b></p>
-<p>	<script type="text/javascript">/*<![CDATA[*/
-    /*]]>*//*<![CDATA[*/
-    var feedbacklink1 = "https://team.quickbase.com/db/bguzysv2w?a=GenNewRecord&_fid_62=1&_fid_14=" + document.location.pathname;
-    document.write('<a href=feedbacklink1 onclick="window.open(feedbacklink1); return false;" target="_blank"><img src="images/emo/1.png" height="36px" width="36px" title="Not at all" alt="1 not at all"></a>');
-    /*]]>*//*<![CDATA[*/
-  /*]]>*/</script>
-  &#160;&#160;
-  <script type="text/javascript">/*<![CDATA[*/
-    /*]]>*//*<![CDATA[*/
-    var feedbacklink2 = "https://team.quickbase.com/db/bguzysv2w?a=GenNewRecord&_fid_62=2&_fid_14=" + document.location.pathname;
-    document.write('<a href=feedbacklink2 onclick="window.open(feedbacklink2); return false;" target="_blank"><img src="images/emo/2.png" height="36px" width="36px" title="Very little" alt="2 very little"></a>');
-    /*]]>*//*<![CDATA[*/
-  /*]]>*/</script>
-  &#160;&#160;
-  <script type="text/javascript">/*<![CDATA[*/
-    /*]]>*//*<![CDATA[*/
-    var feedbacklink3 = "https://team.quickbase.com/db/bguzysv2w?a=GenNewRecord&_fid_62=3&_fid_14=" + document.location.pathname;
-    document.write('<a href=feedbacklink3 onclick="window.open(feedbacklink3); return false;" target="_blank"><img src="images/emo/3.png" height="36px" width="36px" title="Neutral" alt="3 neutral"></a>');
-    /*]]>*//*<![CDATA[*/
-  /*]]>*/</script>
-  &#160;&#160;
-  <script type="text/javascript">/*<![CDATA[*/
-    /*]]>*//*<![CDATA[*/
-    var feedbacklink4 = "https://team.quickbase.com/db/bguzysv2w?a=GenNewRecord&_fid_62=4&_fid_14=" + document.location.pathname;
-    document.write('<a href=feedbacklink4 onclick="window.open(feedbacklink4); return false;" target="_blank"><img src="images/emo/4.png" height="36px" width="36px" title="Somewhat" alt="4 somewhat"></a>');
-    /*]]>*//*<![CDATA[*/
-  /*]]>*/</script>
-  &#160;&#160;
-  <script type="text/javascript">/*<![CDATA[*/
-    /*]]>*//*<![CDATA[*/
-    var feedbacklink5 = "https://team.quickbase.com/db/bguzysv2w?a=GenNewRecord&_fid_62=5&_fid_14=" + document.location.pathname;
-    document.write('<a href=feedbacklink5 onclick="window.open(feedbacklink5); return false;" target="_blank"><img src="images/emo/5.png" height="36px" width="36px" title="Completely" alt="5 completely"></a>');
-    /*]]>*//*<![CDATA[*/
-/*]]>*/</script></p>
-```
-
-To include the feedback emojis on every page, I added the code to the existing [Madcap Flare](https://www.madcapsoftware.com/products/flare/){:target="blank"} snippet that already appeared on every page, as the footer material:
-```html
-<MadCap:snippetBlock src="Resources/Snippets/Copyright_and_GA.flsnp" />
-```
