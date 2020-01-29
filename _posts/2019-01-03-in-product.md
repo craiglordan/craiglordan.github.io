@@ -11,21 +11,21 @@ Here are samples of specs for in-product content. These were all final specs tha
 ### "Build together" app creation copy
 My spec for final content for an app creation modal for [Quick Base](https://www.quickbase.com){:target="blank"}. Developers could use this series of dialogs (called **Build Together**) to choose a use case as the starting point for a new database application.
 
-[![](/assets/images/in-product.png){: width=“500"}](/assets/pdf/Quick-Base-app-creation-copy.pdf){:target="blank"}
+[![](/assets/images/in-product.png){: width=“300"}](/assets/pdf/Quick-Base-app-creation-copy.pdf){:target="blank"}
 
 ---
 
 ### Trial landing page content
 This is final layout and content for a trial page for [Quick Base](https://www.quickbase.com){:target="blank"}. This work was done as part of a project to improve the first-user experience for potential customers.
 
-[![](/assets/images/trial.png){: width=“500"}](/assets/pdf/Quick-Base-trial-landing-page.pdf){:target="blank"}
+[![](/assets/images/trial.png){: width=“300"}](/assets/pdf/Quick-Base-trial-landing-page.pdf){:target="blank"}
 
 ---
 
 ### Explanation welcome dialog
 This content appeared in-product to help explain a key concept for Quick Base, which was how and why to relate tables in a database. I worked with a visual designer on the layout and images, which influenced the final copy.
 
-[![](/assets/images/rel-explanation-2.png){: width=“500"}](/assets/pdf/relationships-explanation.pdf){:target="blank"}
+[![](/assets/images/rel-explanation-2.png){: width=“300"}](/assets/pdf/relationships-explanation.pdf){:target="blank"}
 
 ---
 
