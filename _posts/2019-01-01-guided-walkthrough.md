@@ -18,7 +18,7 @@ This example shows guidance for when the developer is starting a new application
 - [Video recording (.mp4)](/assets/videos/visual-builder-tour-startfromscratch.mp4){:target="blank"}
 - [PDF with screens](/assets/pdf/visual-builder-tour-startfromscratch.pdf){:target="blank"}
 
-![](/assets/images/vb-scratch.png){: width="600"}
+[![](/assets/images/vb-scratch.png){: width=“500"}](/assets/videos/visual-builder-tour-startfromscratch.mp4){:target="blank"}
 
 ---
 
@@ -28,4 +28,4 @@ This example is similar to the above, but contains different content because the
 - [Video recording (.mp4)](/assets/videos/visual-builder-tour-build-from-template.mp4){:target="blank"}
 - [PDF with screens](/assets/pdf/visual-builder-tour-build-from-template.pdf){:target="blank"}
 
-![](/assets/images/vb-scratch.png){: width="600"}
+[![](/assets/images/vb-scratch.png){: width=“500"}](/assets/videos/visual-builder-tour-build-from-template.mp4){:target="blank"}
