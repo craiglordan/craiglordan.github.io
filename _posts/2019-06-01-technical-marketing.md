@@ -5,7 +5,7 @@ permalink: /technical-marketing/
 thumbnail: "/assets/images/thumbnails/cb.png"
 categories: [Technical marketing]
 ---
-Examples of technical marketing content, in articles, interviews, tips, and white papers.
+Examples of technical marketing articles, interviews, tips, and white papers.
 
 ### Notes.net technical articles
 Samples of technical articles from Notes.net, the content resource and community web site for Lotus Notes and Domino.
