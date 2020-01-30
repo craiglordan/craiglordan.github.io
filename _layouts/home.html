@@ -9,32 +9,11 @@ layout: default
 
   {{ content }}
 
-  <!--{%- if site.posts.size > 0 -%}
-    <!--<h2 class="post-list-heading">{{ page.list_title | default: "Samples" }}</h2>-->
-    <!--<ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
-        <!--<h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      <img src="{{ post.thumbnail }}" width="200px"/></p>
-      </li>
-      {%- endfor -%}
-    </ul>-->
-
 {% assign sorted_cats = site.categories | sort %}
 {% for category in sorted_cats %}
 {% assign sorted_posts = category[1] | sort: 'title' %}
   <h2>{{ category[0] }}</h2>
-  <!--<ul>-->
+
     {% for post in sorted_posts %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="homerow">
@@ -51,14 +30,10 @@ layout: default
 
       </div>
     {% endfor %}
-  <!--</ul>-->
+
 {% endfor %}
 
-    <!--<p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
-      </a>
-    </p>-->
+    
   {%- endif -%}
 
 </div>
