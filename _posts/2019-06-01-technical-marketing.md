@@ -10,7 +10,7 @@ Examples of technical marketing content, in articles, interviews, tips, and whit
 ### Notes.net technical articles
 Samples of technical articles from Notes.net, the content resource and community web site for Lotus Notes and Domino.
 
-[![](/assets/images/notesnet2002-01-26.gif){: width="300"}](/assets/images/notesnet2002-01-26.gif){:target="_blank"}
+[![](/assets/images/notesnet2002-Jan.png){: width="300"}](/assets/images/notesnet2002-Jan.png){:target="_blank"}
 
 These are examples of my technical articles, interviews, and tips when I was working as a technical writer and content manager for the site.
 
