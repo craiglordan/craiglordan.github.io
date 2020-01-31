@@ -302,7 +302,7 @@
     &:first-of-type { margin-left: 0 }
     &:last-of-type { margin-right: 0 }
     a {
-      display: block;
+      //display: block;
       padding: $spacing-unit / 4;
       border: 1px solid $brand-color-light
     }
