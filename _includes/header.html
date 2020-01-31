@@ -5,10 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <div class="description">{{ site.description }}</div>
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
+    <div class="description">{{ site.description }}{%- include social.html -%}</div>
     <!--<span class="site-title"> | Samples</span>-->
 
     <!--{%- if titles_size > 0 -%}
