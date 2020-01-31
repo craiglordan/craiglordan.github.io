@@ -8,7 +8,7 @@
       <!--<h2 class="footer-heading">{{ site.title | escape }}</h2>-->
         <ul class="contact-list">
           <li class="p-name">
-            
+
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- endif -%}
@@ -22,7 +22,9 @@
       <!--<div class="footer-col one-half">
         <p>{{- site.description | escape -}}</p>
       </div>-->
-
+      <div class="social-links">
+        {%- include social.html -%}
+      </div>
 
     </div>
 
