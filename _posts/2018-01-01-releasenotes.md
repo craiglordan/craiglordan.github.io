@@ -28,7 +28,7 @@ These samples from 2017 were assembled in Wordpress and published as part of the
   <a href="/assets/pdf/Quick-Base-November-2017-Release-Notes.pdf" target="_blank"><img src="/assets/images/nov-17-rn.png"></a>
   </div>
   <div class="postcolumn">
-  <p><b>August 2017</b></p>
+  <p><b>December 2017</b></p>
   <a href="/assets/pdf/Quick-Base-December-2017-Release-Notes.pdf" target="_blank"><img src="/assets/images/dec-17-rn.png"></a>
   </div>
 </div>

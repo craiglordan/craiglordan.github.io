@@ -23,7 +23,7 @@ This is final layout and content for a trial page for [Quick Base](https://www.q
 ---
 
 ### Explanation welcome dialog
-This content appeared in-product to help explain a key concept for Quick Base, which was how and why to relate tables in a database. I worked with a visual designer on the layout and images, which influenced the final copy.
+This content appeared in-product to help explain a key concept for [Quick Base](https://www.quickbase.com){:target="_blank"}, which was how and why to relate tables in a database. I worked with a visual designer on the layout and images, which influenced the final copy.
 
 [![](/assets/images/rel-explanation-2.png){: width="500"}](/assets/pdf/relationships-explanation.pdf){:target="_blank"}
 
